@@ -395,7 +395,6 @@ class _HomeState extends State<Home> {
                     ),
                     child: new Row(
                       children: <Widget>[
-
                         new Expanded(
                           flex: 1,
                           child: new Image.network(
