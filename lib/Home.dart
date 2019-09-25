@@ -383,6 +383,8 @@ class _HomeState extends State<Home> {
                     ),
                   ),
                 ),
+
+                
                 //end first container
                 new SizedBox(height: 5.0,),
                 new Container(
