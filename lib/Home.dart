@@ -385,7 +385,6 @@ class _HomeState extends State<Home> {
                 ),
                 //end first container
                 new SizedBox(height: 5.0,),
-
                 new Container(
                   height: 150.0,
                   child: Card(
