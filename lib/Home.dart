@@ -402,6 +402,8 @@ class _HomeState extends State<Home> {
                             fit: BoxFit.cover,
                           ),
                         ),
+
+                        
                         new SizedBox(width: 5.0,),
                         new Expanded(
                           flex: 2,
