@@ -34,7 +34,6 @@ class _HomeState extends State<Home> {
                 color: Colors.deepOrange
               ),
             ),
-            
             new ListTile(
               title: new Text("First Page",
               style: TextStyle(
