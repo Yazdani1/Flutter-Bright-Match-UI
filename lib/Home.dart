@@ -4,7 +4,6 @@ class Home extends StatefulWidget {
   @override
   _HomeState createState() => new _HomeState();
 }
-
 class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
@@ -384,7 +383,7 @@ class _HomeState extends State<Home> {
                   ),
                 ),
 
-                
+
                 //end first container
                 new SizedBox(height: 5.0,),
                 new Container(
