@@ -24,7 +24,6 @@ class _HomeState extends State<Home> {
 
         ],
       ),
-      
       drawer: new Drawer(
         child: new ListView(
           children: <Widget>[
