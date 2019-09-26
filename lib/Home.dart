@@ -57,8 +57,6 @@ class _HomeState extends State<Home> {
               },
               leading: new Icon(Icons.next_week,color: Colors.green,size: 21.0,),
             )
-
-            
           ],
         ),
       ),
