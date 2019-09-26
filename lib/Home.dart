@@ -13,7 +13,6 @@ class _HomeState extends State<Home> {
         title: new Text("Bright Match"),
         backgroundColor: Colors.deepOrange,
         actions: <Widget>[
-
           new IconButton(
               icon: new Icon(Icons.image),
               onPressed: ()=>debugPrint("Image")
