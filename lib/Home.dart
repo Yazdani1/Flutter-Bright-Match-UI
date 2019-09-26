@@ -46,7 +46,6 @@ class _HomeState extends State<Home> {
               },
               leading: new Icon(Icons.title,color: Colors.deepOrange,size: 21.0,),
             ),
-            
             new ListTile(
               title: new Text("Second Page",
               style: TextStyle(
