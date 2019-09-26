@@ -24,10 +24,10 @@ class _HomeState extends State<Home> {
 
         ],
       ),
+
       drawer: new Drawer(
         child: new ListView(
           children: <Widget>[
-            
             new UserAccountsDrawerHeader(
                 accountName: new Text("CodeWithydc"), 
                 accountEmail: new Text("abc@gmail.com"),
